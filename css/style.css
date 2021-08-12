@@ -1519,7 +1519,8 @@ body._lock {
 }
 
 .popup__close:hover {
-  color: #190ba8;
+  color: #f54a24;
+  text-decoration: underline;
 }
 
 .popup__left {
